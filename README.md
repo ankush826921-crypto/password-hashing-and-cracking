@@ -56,7 +56,7 @@ No external dependencies required.
 
 ---
 
-**Submitted for CodeTech Technologies Internship**  
+**Submitted for Codec Technologies Internship**  
 **Project 7: Password Cracking and Hashing Algorithms**
 
 ## 📁 Project Structure
@@ -72,6 +72,7 @@ password-hashing-and-cracking/
 └── users.json       # Auto-created: stores users and password hashes
 
 ---
+
 
 
 
