@@ -40,18 +40,6 @@ No external dependencies required.
 
 ---
 
-## 📁 Project Structure
-
-```text
-password-hashing-and-cracking/
-├── main.py          # CLI menu (register, login, hash demo, cracking)
-├── hashing.py       # Salted hashing + user DB logic
-├── cracker.py       # Dictionary-based SHA-256 hash cracker
-├── wordlist.txt     # Sample password wordlist
-└── users.json       # Auto-created: stores users and password hashes
-
----
-
 ## 🎓 Skills Demonstrated
 - Secure password storage using salted SHA-256 hashing
 - Understanding of hashing vs plaintext passwords
@@ -70,3 +58,20 @@ password-hashing-and-cracking/
 
 **Submitted for CodeTech Technologies Internship**  
 **Project 7: Password Cracking and Hashing Algorithms**
+
+## 📁 Project Structure
+
+---
+
+```text
+password-hashing-and-cracking/
+├── main.py          # CLI menu (register, login, hash demo, cracking)
+├── hashing.py       # Salted hashing + user DB logic
+├── cracker.py       # Dictionary-based SHA-256 hash cracker
+├── wordlist.txt     # Sample password wordlist
+└── users.json       # Auto-created: stores users and password hashes
+
+---
+
+
+
